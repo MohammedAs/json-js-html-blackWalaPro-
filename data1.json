@@ -1,0 +1,68 @@
+[
+  {
+    "firstname":"Anindita",
+    "lastname":"Chakraborty",
+    "state":"Jharkhand",
+    "city":"Jamshedpur"
+  },
+  {
+    "firstname":"Sandeep",
+    "lastname":"K S",
+    "state":"Andhra Pradesh",
+    "city":"Hyderabad"
+  },
+  {
+    "firstname":"Disha",
+    "lastname":"Rughani",
+    "state":"Gujrat",
+    "city":"Surat"
+  },
+  {
+    "firstname":"Deepa",
+    "lastname":"Motwani",
+    "state":"Maharashtra",
+    "city":"Buldhana"
+  },
+  {
+    "firstname":"Lipi",
+    "lastname":"T S",
+    "state":"Andhra Pradesh",
+    "city":"Vizag"
+  },
+  {
+    "firstname":"Tejal",
+    "lastname":"Tandale",
+    "state":"Maharashtra",
+    "city":"Ratnagiri"
+  },
+  {
+    "firstname":"Anjali",
+    "lastname":"Sharma",
+    "state":"Madhya Pradesh",
+    "city":"Indore"
+  },
+  {
+    "firstname":"Antara",
+    "lastname":"Das",
+    "state":"West Bengal",
+    "city":"Kolkata"
+  },
+  {
+    "firstname":"Nasrin",
+    "lastname":"Fatima",
+    "state":"Bihar",
+    "city":"Patna"
+  },
+  {
+    "firstname":"Sujit",
+    "lastname":"Kumar",
+    "state":"Bihar",
+    "city":"Gaya"
+  },
+  {
+    "firstname":"Sanjay",
+    "lastname":"Kulkarni",
+    "state":"Karnataka",
+    "city":"Bangalore"
+  }
+]
